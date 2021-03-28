@@ -7,10 +7,11 @@ MERN STACK  simple exercise tracker
 - type "node server.js" to terminal
 
 # To initiliaze client
--open main directory
--type "npm start" to terminal
+- open main directory
+- type "npm start" to terminal
 
 # Connection to database
+
 In server.js, you should change uri variable any local database string.
 
 
