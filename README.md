@@ -24,6 +24,8 @@ In server.js, you should change uri variable any local database string.
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+# Exercise app
 
+<img src="img/1.JPG" alt="Girl in a jacket" width="500" height="600">
 
 
