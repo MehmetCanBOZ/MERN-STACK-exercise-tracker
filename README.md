@@ -26,6 +26,6 @@ In server.js, you should change uri variable any local database string.
 
 # Exercise app
 
-<img src="img/1.JPG" alt="Girl in a jacket" width="500" height="600">
+<img src="img/1.JPG" alt="Girl in a jacket">
 
 
