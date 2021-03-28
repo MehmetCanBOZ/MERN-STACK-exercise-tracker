@@ -28,4 +28,8 @@ In server.js, you should change uri variable any local database string.
 
 <img src="img/1.JPG" alt="Girl in a jacket">
 
+<img src="img/2.JPG" alt="Girl in a jacket">
+
+<img src="img/3.JPG" alt="Girl in a jacket">
+
 
